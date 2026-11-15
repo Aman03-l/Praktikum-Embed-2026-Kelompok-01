@@ -1,4 +1,4 @@
-# Praktikum Sistem Tertanam 2026 ΓÇö Kelompok 01
+# Praktikum Sistem Tertanam 2026 Kelompok 01
 
 **Laboratorium Robotika dan Sistem Cerdas**
 Departemen Teknik Komputer
