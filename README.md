@@ -1,0 +1,14 @@
+# Praktikum Sistem Tertanam 2026 ΓÇö Kelompok 01
+
+**Laboratorium Robotika dan Sistem Cerdas**
+Departemen Teknik Komputer
+Institut Teknologi Sepuluh Nopember
+
+---
+
+## Anggota Kelompok
+
+| No | Nama | NRP |
+|----|------|-----|
+| 1  | Salman Al Ghifary | 5024221003 |
+| 2  |  |  |
