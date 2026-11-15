@@ -11,4 +11,4 @@ Institut Teknologi Sepuluh Nopember
 | No | Nama | NRP |
 |----|------|-----|
 | 1  | Salman Al Ghifary | 5024221003 |
-| 2  |  |  |
+| 2  | Imanuel abimanyu Herlambang | 5024201021 |
